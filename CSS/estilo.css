@@ -1,0 +1,143 @@
+div{
+    display: inline-block;
+}
+
+.forma1{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.forma2{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.forma3{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.forma4{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 40px;
+    text-align: center;
+}
+
+.forma5{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 60px;
+    text-align: center;
+}
+
+.forma6{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 13em/3em;
+    text-align: center;
+}
+
+.forma7{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-top-left-radius: 40%;
+    text-align: center;
+}
+
+.forma8{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 80px 20px;
+    text-align: center;
+}
+
+.forma9{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 60px 20px 5px;
+    text-align: center;
+}
+
+.forma10{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 60px 20px 5px 90px;
+    text-align: center;
+}
+
+.forma11{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 60px/20px;
+    text-align: center;
+}
+
+.forma12{
+    background-color: rgb(165, 167, 53);
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 50px 10px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.formas{
+    display: inline-block;
+}
+
+.formas2{
+    display: inline-block;
+}
